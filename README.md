@@ -33,11 +33,11 @@ According to the type of film awards, it can be divided into three categories: f
 + The effects interface contains: movie name, poster, awards, director, country, release time, Douban score and plot summary.
 
 #### 2.2 Program usage instructions
-### 2.2.1 Home page
+##### 2.2.1 Home page
 
 The website homepage is accessed through http://localhost:8080/ch07/home_page.jsp. For the home page, see page introduction 2.1.
 
-#### 2.2.2 Access resources
+##### 2.2.2 Access resources
 How to access movies:
 
 (1) Click directly on the movie poster;
