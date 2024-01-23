@@ -1,0 +1,22 @@
+@charset "gb18030";
+/*body标签的样式*/
+body{
+	text-align: center;
+    margin:0;
+    padding:0;
+    background-image: url(images/home_page.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 96%;
+}
+/*定义页面底部*/
+#footer{
+	width: 1665px;
+    height: 43px;
+	line-height: 40px;
+	background-color:#eeeeee;
+	text-align:center;
+	font-size:14px;
+	position: absolute; 
+    bottom: 0;
+}		

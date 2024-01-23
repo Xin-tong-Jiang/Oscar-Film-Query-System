@@ -1,0 +1,40 @@
+@charset "gb18030";
+/*body标签的样式*/
+body{
+	text-align: center;
+    margin:0;
+    padding:0;
+    background-image:url(images/show/show.jpg);
+   	background-repeat:no-repeat;
+   	background-size: 100% 135%;
+}
+/*定义一个放所有页面内容的容器*/
+#container{
+   width: 1400px;
+   height: auto;
+   margin: 0  auto;
+   text-align:left;
+}
+/*定义页面头部*/
+#header{
+   width: 224px;
+   height: 0px;
+}
+/*定义页面中部*/
+#content{
+   font-size:25px;
+   font-family:"微软雅黑";
+   width: 1400px;
+   height:615px;
+}
+/*定义页面底部*/
+#footer{
+   width: 1665px;
+   height: 43px;
+   line-height: 40px;
+   background-color:#eeeeee;
+   text-align:center;
+   font-size:14px;
+   position: absolute; 
+   bottom: 0;
+}
