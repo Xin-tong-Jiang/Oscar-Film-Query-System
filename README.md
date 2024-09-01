@@ -10,6 +10,9 @@ This work is called "Oscar Award-winning Movie Query System", which aims to prov
 
 The work is designed and developed based on the MVC model (JSP+Servlet+JavaBean), uses JDBC technology to access the database, uses Maven to manage the project, and finally presents the HTML page in DIV+CSS style.
 
+<img width="729" alt="Screenshot 2024-08-31 at 22 07 53" src="https://github.com/user-attachments/assets/e4b5756b-43f5-450b-8a39-2ecf65f60177">
+
+
 #### 1.2 Application features
 
 At the functional level, it includes all the winning movies of the 94th Academy Awards, allowing users to quickly understand the winning movie information.
